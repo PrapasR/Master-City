@@ -4,10 +4,10 @@ This repository contains coursework I did at City, University of London for a Da
 
 | Subject | Report |
 | ---------- | :-------: |
-| Root Folder | [Link] (https://drive.google.com/drive/folders/1UzYH_P9pzRP8OVeEVbtETf0S1EgPFlyS?usp=sharing) |
-| Machine Learning | [Link] (https://drive.google.com/drive/folders/1sNRAj9jGDMwl7z0PrObhjm2PhrzjjrRa?usp=sharing) |
-| Principle of Data Science | [Link] (https://drive.google.com/drive/folders/12SYf5LUsl-gZ7JAcdXrZwVqq3zuZXKBo?usp=sharing) |
-| Neural Computing | [Link] [Link] (https://drive.google.com/drive/folders/1_nHoisJmONv_j9PJCcLEuk9ns6SEYyoZ?usp=sharing) |
-| Deep Reinforcement Learning | [Link] (https://drive.google.com/drive/folders/1bjXw8ZtKsu8-ICpU4_quCWXkcXaDx3sK?usp=sharing) |
-| Big Data | [Link] (https://drive.google.com/drive/folders/1nAyXDXKOUuIUWj1BIsy-dQ0GQ9M8a5pX?usp=sharing) |
+| Root Folder | [Link](https://drive.google.com/drive/folders/1UzYH_P9pzRP8OVeEVbtETf0S1EgPFlyS?usp=sharing) |
+| Machine Learning | [Link](https://drive.google.com/drive/folders/1sNRAj9jGDMwl7z0PrObhjm2PhrzjjrRa?usp=sharing) |
+| Principle of Data Science | [Link](https://drive.google.com/drive/folders/12SYf5LUsl-gZ7JAcdXrZwVqq3zuZXKBo?usp=sharing) |
+| Neural Computing | [Link](https://drive.google.com/drive/folders/1_nHoisJmONv_j9PJCcLEuk9ns6SEYyoZ?usp=sharing) |
+| Deep Reinforcement Learning | [Link](https://drive.google.com/drive/folders/1bjXw8ZtKsu8-ICpU4_quCWXkcXaDx3sK?usp=sharing) |
+| Big Data | [Link](https://drive.google.com/drive/folders/1nAyXDXKOUuIUWj1BIsy-dQ0GQ9M8a5pX?usp=sharing) |
 
