@@ -1,0 +1,19 @@
+1. Extract all the files from the zip file. Please extract only 'INM427__ 200012196_CW'
+   and ignore folder name such as MAC_OSX (if any)
+2. Download the below folder from the link and place it at the root of the root folder*
+	Folder: 'Data2'
+	Folder: 'Model'3. Use Anaconda Prompt (cd) and navigate to the extracted folder
+4. Install libraries from yaml file by typing the below command
+   
+   'conda env create -f environment.yaml'
+ 
+   There might be some authentication pop up. Just click no and the environment should be ready
+
+5. Enter the below to enter the open Jupiter notebook
+   
+   'conda activate neural_cw'
+   'jupiter notebook'
+6. Run the '4_Prediction and Analysis.ipynb' to test the models
+
+* Download Link: 
+https://cityuni-my.sharepoint.com/:f:/g/personal/prapas_rakchartkiattikul_city_ac_uk/EivNQ5H1hjlGnDhoNzLUcBYBxjSYmyO6L8e56ATjFEoWWA?e=bGUeJ8
